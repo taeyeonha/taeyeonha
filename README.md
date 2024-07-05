@@ -10,6 +10,3 @@ I am a Computer Engineering Co-op student at McMaster University, exploring the 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=taeyeonha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
