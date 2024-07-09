@@ -1,4 +1,4 @@
-# :-:Hi 👋 I'm Tae Yeon HA:-:
+# <h1 align="center">Hi 👋 I'm Tae Yeon HA</h1>
 
 # 💫 About Me:
 I am a Computer Engineering Co-op student at McMaster University, exploring the domain of machine learning, embedded software engineering, and building robust applications.
