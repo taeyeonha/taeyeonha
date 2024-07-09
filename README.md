@@ -4,7 +4,7 @@
 I am a Computer Engineering Co-op student at McMaster University, exploring the domain of machine learning, embedded software engineering, and building robust applications.
 
 # 🚀 What I'm Up To:
-- Currently working at Healthcare Systems R&A Inc. in Waterloo, Ontario full-time as a Machine Learning Engineer Intern
+- Currently working at Healthcare Systems R&A Inc. in Waterloo, Ontario full-time as a Machine Learning Engineer Intern for my co-op term
 - Learning about embedded software engineering
 - Dissecting game development with C# and Unity
 - Building full-stack applications with React and Flask
