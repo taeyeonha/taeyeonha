@@ -1,8 +1,12 @@
 # 💫 About Me:
 I am a Computer Engineering Co-op student at McMaster University, exploring the domain of machine learning, embedded software engineering, and building robust applications.
 
+# 🚀 What I'm Up To:
+- Dissecting Machine Learning with scikit-learn, TensorFlow and PyTorch
+- Learning about embedded software engineering
+- Building full-stack applications with React and Flask
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taeyeonha) 
 
 # 💻 Tech Stack:
