@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Tae Yeon HA</h1>
 
 # 💫 About Me:
-I am a Computer Engineering Co-op student at McMaster University, exploring the domain of machine learning, embedded software engineering, and building robust applications.
+I am a Computer Engineering Co-op student at McMaster University, exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
 
 ## 🚀 What I'm Up To:
 - Currently working at Healthcare Systems R&A Inc. in Waterloo, Ontario full-time as a Machine Learning Engineer Intern
