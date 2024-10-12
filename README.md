@@ -4,11 +4,11 @@
 I am a Computer Engineering Co-op student at McMaster University, exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
 
 ## 🚀 What I'm Up To:
-- Recently finished up a Co-op term at Healthcare Systems R&A Inc. in Waterloo, Ontario as a Machine Learning Engineer Intern
-- Currently working as an Embedded Machine Learning Engineer at the McMaster Medical Engineering Design Team
-- Completing the Deep Learning Specialization course taught by Andrew Ng
-- Dissecting game development with C# and Unity
-- Building full-stack applications with React and Flask
+- 🧠 Recently finished up a Co-op term at Healthcare Systems R&A Inc. in Waterloo, Ontario as a Machine Learning Engineer Intern
+- 🤖 Currently working as an Embedded Machine Learning Engineer at the McMaster Medical Engineering Design Team
+- 📚 Completing the Deep Learning Specialization course taught by Andrew Ng
+- 🎮 Dissecting game development with C# and Unity
+- 🏗️ Building full-stack applications with React and Flask
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taeyeonha) 
