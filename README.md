@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Tae Yeon HA</h1>
+<h1 align="center">Hi 👋 I'm Felix (Tae Yeon) HA</h1>
 
 # 💫 About Me:
 I am a Computer Engineering Co-op student at McMaster University, exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
