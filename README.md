@@ -4,7 +4,7 @@
 I am a Computer Engineering Co-op student at McMaster University, exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
 
 ## 🚀 What I'm Up To:
-- 🧠 Recently finished up a valuable internship at Healthcare Systems R&A Inc. in Waterloo, Ontario as a Machine Learning Engineer Intern
+- 🧠 Recently finished up a valuable internship at Healthcare Systems R&A Inc. in Waterloo, Ontario as a Machine Learning Intern
 - 🤖 Currently working as an Embedded Software Engineer at the McMaster Medical Engineering Design Team
 - 📚 Completing the Deep Learning Specialization course taught by Andrew Ng
 - 🎮 Dissecting game development with C# and Unity
