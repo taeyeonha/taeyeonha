@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋 I'm Felix (Tae Yeon) HA</h1>
 
 # 💫 About Me:
-I am a Computer Engineering Co-op student at McMaster University, exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
+Currently a Software Engineer Intern at Block (formerly Square) working with the SF Bay Area team.
+I am also a Computer Engineering Co-op student at McMaster University, exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
 
 ## 🚀 What I'm Up To:
-- 🧠 Recently finished up a valuable internship at Healthcare Systems R&A Inc. in Waterloo, Ontario as a Machine Learning Engineer Intern
-- 👨‍💻 Currently working as a Software Engineer at the McMaster Medical Engineering Design Team
+- 👨‍💻 Software Engineer Intern at Block
+- 🧠 Previous Machine Learning Engineer Intern at Healthcare Systems R&A Inc. in Waterloo, Ontario
 - 📚 Completing the Deep Learning Specialization course taught by Andrew Ng
 - 🎮 Dissecting game development with C# and Unity
 - 🏗️ Building...
