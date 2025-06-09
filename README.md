@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Felix (Tae Yeon) HA</h1>
 
 # 💫 About Me:
-Currently a Software Engineer Intern at Block (formerly Square) working with the SF Bay Area team.
+Currently a Software Engineer Intern at Block (formerly Square).
 I am also a Computer Engineering Co-op student at McMaster University, exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
 
 ## 🚀 What I'm Up To:
