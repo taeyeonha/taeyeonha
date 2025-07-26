@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Currently a Software Engineer Intern at Block (formerly Square).
-I am also a Computer Engineering Co-op student at McMaster University, exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
+Studying Computer Engineering at McMaster University, exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
 
 ## 🚀 What I'm Up To:
 - 👨‍💻 Software Engineer Intern at Block
