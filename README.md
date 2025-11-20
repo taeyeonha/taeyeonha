@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋 I'm Felix (Tae Yeon) HA</h1>
 
 # 💫 About Me:
-- Currently a Software Engineer Intern at Block (formerly Square).
-- Third year student studying Computer Engineering at McMaster University
-- exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
+- Returning Software Engineer Intern (2026) at Square (Block).
+- Third year Computer Engineering student at McMaster University
+- Exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
 
 ## 🚀 What I'm Up To:
-- 👨‍💻 Software Engineer Intern at Block
-- 🧠 Previous Machine Learning Engineer Intern at Healthcare Systems R&A Inc. in Waterloo, Ontario
-- 📚 Completing the Deep Learning Specialization course taught by Andrew Ng
-- 🎮 Dissecting game development with C# and Unity
+- 👨‍💻 Engineering the backend data pipeline for a mission control interface in C++ to process satellite telemetry for a university-built satellite launching with SpaceX in 2026
+- 🧠 Researching BCIs
+- 📚 Completing the Elements of Statistical Learning and Deep Learning for Coders (fastai) books
+- 🎮 Indie game development with C# and Unity
 - 🏗️ Building...
 
 ## 🌐 Connect With Me:
