@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Felix (Tae Yeon) HA</h1>
 
 # 💫 About Me:
-- Returning Software Engineer Intern (2026) at Square (Block).
-- Third year Computer Engineering student at McMaster University
+- Applied MLE Intern at Cash App.
+- Fourth Year Computer Engineering student at McMaster University
 - Exploring the domains of Brain-Computer Interfaces, machine learning, embedded software engineering, and building robust applications.
 
 ## 🚀 What I'm Up To:
